@@ -39,9 +39,4 @@ public class ImportFragment extends Fragment {
         return view;
     }
 
-    public void buttonShow(View view)
-    {
-
-    }
-
 }
